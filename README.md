@@ -108,5 +108,5 @@ or any static file hosting service
 MIT — Feel free to use, modify, and distribute.
 
 ✨ Author
-Developed by Juan David Ospina Vasquez — LinkedIn · GitHub
+Developed by Juan David Ospina Vasquez — [LinkedIn](https://www.linkedin.com/in/juan-david-ospina-vasquez-0bb504b1/?originalSubdomain=co) · [GitHub](https://github.com/juandaosp)
 
